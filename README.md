@@ -3,6 +3,7 @@ Linux Privilege Escalation
 
 <Fixing a Shell>
 Mirror the victims machine with your kali terminal window
+  
   $ stty -a  
   $ stty raw -echo
   $ fg
